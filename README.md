@@ -2,7 +2,7 @@
 It is a bot that you can create embed messages.
 
 # Bot is Online?
-Is Bot still online? Yes it is clear and always updating.
+Is Bot still online? Yes it is clear and always **updating.**
 
 # Version
 v1.0
@@ -12,3 +12,6 @@ v1.0
 
 # Edit Text Pro
 To have the `PRO` you need to buy.
+Photograph: **http://prntscr.com/n3o99p**
+
+`PRO` has more commands
